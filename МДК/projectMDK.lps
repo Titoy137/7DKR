@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="projectMDK.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="33"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unitmdk.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Koww"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="33" Y="22"/>
+        <UsageCount Value="33"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="27">
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="77" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="8" Column="66"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="9" Column="84"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="13" Column="68"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="55" Column="6" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="132" Column="68" TopLine="122"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="136" Column="60" TopLine="122"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="149" TopLine="123"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="150" TopLine="124"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="149" TopLine="123"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="96" Column="31" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="111" Column="14" TopLine="99"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="112" Column="34" TopLine="99"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="138" Column="41" TopLine="121"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="98" Column="33" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="141" Column="6" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="112" Column="25" TopLine="103"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="145" Column="9" TopLine="125"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="113" Column="6" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="154" Column="5" TopLine="131"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="153" Column="2" TopLine="126"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="147" Column="7" TopLine="132"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="112" Column="28" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="113" Column="6" TopLine="102"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="111" Column="36" TopLine="102"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="113" Column="7" TopLine="102"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="116" Column="61" TopLine="102"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="153" TopLine="127"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

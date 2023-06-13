@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="projectMDK.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="24" Y="6"/>
+        <UsageCount Value="23"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unitmdk.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unitMDK"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="51"/>
+        <CursorPos Y="122"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="2">
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="29" Column="17" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="102" Column="43" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmdk.pas"/>
+        <Caret Line="106" Column="58" TopLine="95"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+    <HistoryLists>
+      <List Name="WorkingDirectory" Type="File" Count="1"/>
+      <List Name="LaunchingApplication" Type="File" Count="1">
+        <Item1 Value="C:\Windows\system32\cmd.exe /C ${TargetCmdLine}"/>
+      </List>
+      <List Name="CommandLineParameters" Count="1"/>
+    </HistoryLists>
+  </ProjectSession>
+</CONFIG>
